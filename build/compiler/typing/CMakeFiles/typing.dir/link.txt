@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtyping.a CMakeFiles/typing.dir/type.cpp.o CMakeFiles/typing.dir/type_checker.cpp.o CMakeFiles/typing.dir/format_specifier.cpp.o
+/usr/bin/ranlib libtyping.a

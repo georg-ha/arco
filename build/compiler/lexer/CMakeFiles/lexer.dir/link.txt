@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblexer.a CMakeFiles/lexer.dir/token_type.cpp.o CMakeFiles/lexer.dir/lexer.cpp.o CMakeFiles/lexer.dir/location.cpp.o CMakeFiles/lexer.dir/token.cpp.o
+/usr/bin/ranlib liblexer.a

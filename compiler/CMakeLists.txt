@@ -1,0 +1,8 @@
+add_subdirectory(lexer)
+add_subdirectory(parser)
+add_subdirectory(AST)
+add_subdirectory(sema)
+add_subdirectory(typing)
+add_subdirectory(driver)
+add_subdirectory(errors)
+add_subdirectory(IR_codegen)

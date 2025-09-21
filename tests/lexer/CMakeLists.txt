@@ -1,0 +1,3 @@
+add_executable(lexer_tests lexer_test.cpp)
+target_link_libraries(lexer_tests gtest_main lexer errors)
+gtest_discover_tests(lexer_tests)

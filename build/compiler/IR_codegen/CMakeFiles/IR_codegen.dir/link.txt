@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIR_codegen.a CMakeFiles/IR_codegen.dir/expr_codegen.cpp.o CMakeFiles/IR_codegen.dir/stmt_codegen.cpp.o
+/usr/bin/ranlib libIR_codegen.a
