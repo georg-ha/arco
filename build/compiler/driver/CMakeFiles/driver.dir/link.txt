@@ -1,2 +1,0 @@
-/usr/bin/ar qc libdriver.a CMakeFiles/driver.dir/source_file.cpp.o CMakeFiles/driver.dir/module.cpp.o
-/usr/bin/ranlib libdriver.a

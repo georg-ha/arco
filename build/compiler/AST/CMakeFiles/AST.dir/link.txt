@@ -1,2 +1,0 @@
-/usr/bin/ar qc libAST.a CMakeFiles/AST.dir/expr_nodes.cpp.o CMakeFiles/AST.dir/stmt_nodes.cpp.o CMakeFiles/AST.dir/print_visitor.cpp.o CMakeFiles/AST.dir/type_anno.cpp.o
-/usr/bin/ranlib libAST.a

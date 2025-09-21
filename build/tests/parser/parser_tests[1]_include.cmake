@@ -1,5 +1,0 @@
-if(EXISTS "/Users/georghabersack/Desktop/arco/build/tests/parser/parser_tests[1]_tests.cmake")
-  include("/Users/georghabersack/Desktop/arco/build/tests/parser/parser_tests[1]_tests.cmake")
-else()
-  add_test(parser_tests_NOT_BUILT parser_tests_NOT_BUILT)
-endif()

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsema.a CMakeFiles/sema.dir/symbol.cpp.o CMakeFiles/sema.dir/scope.cpp.o CMakeFiles/sema.dir/module_collector.cpp.o CMakeFiles/sema.dir/name_resolution.cpp.o
-/usr/bin/ranlib libsema.a
