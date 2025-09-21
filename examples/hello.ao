@@ -1,5 +1,0 @@
-fun main() of int = {
-    var x = 200
-
-    let s = x + "HI"
-}
