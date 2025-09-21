@@ -61,3 +61,31 @@ fun main() of int = {
 fun double(x of int) = x * 2
  
 ```
+
+### Control Flow
+
+### If-Else Expressions
+
+```
+fun main() of int = {
+    let x = 20
+    if x > 10 then {
+        # ...
+    } else {
+        # ...
+    }
+}
+```
+
+### While Loopos
+
+```
+fun main() of int = {
+    var x = 0
+    while x < 5 {
+        printf("%d\n", x)
+        x = x + 1
+    }
+    0
+}
+```
